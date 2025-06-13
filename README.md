@@ -349,13 +349,6 @@ We welcome contributions to the Omen project! Here's how you can help:
 - 🧪 Additional ML models
 - 🔧 Performance optimizations
 
-## 📞 Support
-
-### Getting Help
-- **GitHub Issues**: Report bugs or request features
-- **Documentation**: Comprehensive guides and examples
-- **Community**: Join discussions and share experiences
-
 ### Troubleshooting
 - Check `requirements.txt` for dependency conflicts
 - Ensure Python version compatibility (3.8+)
