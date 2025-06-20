@@ -119,7 +119,7 @@ with st.spinner('Loading...'):
 
     st.divider()
 
-st.page_link(page="https://github.com/rounakdey2003", label=":blue-background[:blue[Github]]",
+st.page_link(page="https://github.com/rounakdey2003/Omen", label=":blue-background[:blue[Github]]",
                      help='Teleport to Github',
                      use_container_width=False)
 
