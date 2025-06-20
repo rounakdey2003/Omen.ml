@@ -7,7 +7,7 @@ plotly
 seaborn
 matplotlib
 lightgbm
-tensorflow
+tensorflow≤2.13
 catboost
 xgboost
 shap
