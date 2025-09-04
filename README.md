@@ -178,9 +178,9 @@ Omen/
 - **pillow**: Image processing
 - **pickle-mixin**: Object serialization
 
-## 📄 Pages & Modules
+## Pages & Modules
 
-### 1. Data Analysis 🔎
+### 1. Data Analysis�
 - Interactive data exploration tools
 - Real-time visualization updates
 - Statistical analysis capabilities
