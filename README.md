@@ -1,5 +1,5 @@
-# 🌟 OMEN.ml
-# 🔗 Link - https://omenai.streamlit.app
+# OMEN.ml
+# Link - https://omenai.streamlit.app
 
 **Empower your creativity with the precision of ML.**
 
@@ -7,7 +7,7 @@ A comprehensive Python web application built with Streamlit that combines Machin
 
 ![Omen Logo](image/omenLogo.png)
 
-## 📋 Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
@@ -21,7 +21,7 @@ A comprehensive Python web application built with Streamlit that combines Machin
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🎯 Overview
+## Overview
 
 Omen is an all-in-one web application that provides:
 - **Advanced Data Analysis** with interactive visualizations
@@ -31,32 +31,32 @@ Omen is an all-in-one web application that provides:
 - **Comprehensive File Conversion Toolkit** supporting 16+ file formats
 - **Specialized Analyzers** for Lung Cancer and Credit Card Fraud detection
 
-## ✨ Features
+## Features
 
-### 🔬 **Data Science & Analytics**
+### **Data Science & Analytics**
 - Interactive data analysis with toggle-based controls
 - Advanced visualization using Plotly, Seaborn, and Matplotlib
 - Machine learning model integration with scikit-learn
 - Statistical analysis and data exploration tools
 
-### 🏥 **Healthcare Predictions**
+### **Healthcare Predictions**
 - **Diabetes Prediction**: Predict diabetes risk based on health metrics
 - **Heart Disease Prediction**: Assess cardiovascular risk factors
 - **Parkinson's Disease Prediction**: Early detection analysis
 - **Lung Cancer Analyzer (PRO)**: Advanced lung cancer risk assessment
 
-### 💳 **Financial Analysis**
+### **Financial Analysis**
 - **Credit Card Fraud Analyzer (PRO)**: Detect fraudulent transactions
 - Advanced pattern recognition and anomaly detection
 
-### 📚 **Educational Tools**
+### **Educational Tools**
 - **Math GPT**: 
   - Basic to advanced calculator
   - Linear equation solver with graphical solutions
   - Interactive graph plotter
 - **Python GPT**: Module documentation and reference guide
 
-### 🛠️ **File Conversion Toolkit**
+### **File Conversion Toolkit**
 Comprehensive conversion between 8+ file formats:
 
 #### Text Conversions:
@@ -68,7 +68,7 @@ Comprehensive conversion between 8+ file formats:
 #### CSV Conversions:
 - CSV ↔ PDF, Text
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -101,7 +101,7 @@ Comprehensive conversion between 8+ file formats:
 5. **Access the application**
    Open your browser and navigate to `http://localhost:8501`
 
-## 📖 Usage
+## Usage
 
 ### Quick Start
 1. Launch the application using the command above
@@ -114,7 +114,7 @@ Comprehensive conversion between 8+ file formats:
 - **Page Links**: Direct navigation to specific features
 - **Responsive Design**: Optimized for both desktop and mobile viewing
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 Omen/
@@ -146,7 +146,7 @@ Omen/
     └── Credit Card Fraud Analyser (PRO).py
 ```
 
-## 📦 Dependencies
+## Dependencies
 
 ### Core Libraries
 - **streamlit**: Web application framework
@@ -186,37 +186,37 @@ Omen/
 - Statistical analysis capabilities
 - Data cleaning and preprocessing options
 
-### 2. Disease Prediction 💊
+### 2. Disease Prediction
 - **Diabetes Prediction**: Input health metrics for risk assessment
 - **Heart Disease Prediction**: Cardiovascular risk analysis
 - **Parkinson's Prediction**: Early detection screening
 
-### 3. Math GPT 📚
+### 3. Math GPT
 - **Calculator**: Basic to advanced mathematical operations
 - **Linear Equation Solver**: Solve systems of equations with graphical representation
 - **Graph Plotter**: Create interactive mathematical plots
 
-### 4. Python GPT 🐍
+### 4. Python GPT
 - Module documentation lookup
 - Python reference guide
 - Code examples and explanations
 
-### 5. ToolKit 🛠️
+### 5. ToolKit
 - Comprehensive file conversion utilities
 - Batch processing capabilities
 - Format preservation and optimization
 
-### 6. Lung Cancer Analyser (PRO) 🫁
+### 6. Lung Cancer Analyser (PRO)
 - Advanced machine learning analysis
 - Risk factor assessment
 - Data visualization and reporting
 
-### 7. Credit Card Fraud Analyser (PRO) 💳
+### 7. Credit Card Fraud Analyser (PRO)
 - Transaction pattern analysis
 - Anomaly detection algorithms
 - Real-time fraud scoring
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 The application includes pre-trained models for:
 
@@ -237,7 +237,7 @@ The application includes pre-trained models for:
 - **Lung Cancer Analyzer**: Advanced risk assessment using multiple biomarkers
 - **Credit Card Fraud Detector**: Pattern recognition for fraudulent transactions
 
-## 🔄 File Conversion Tools
+## File Conversion Tools
 
 ### Supported Conversions
 
@@ -277,15 +277,15 @@ The application includes pre-trained models for:
 - **Quality Optimization**: Automatic optimization for different output formats
 - **Error Handling**: Robust error handling with user-friendly messages
 
-## 🎨 User Interface Features
+## User Interface Features
 
 ### Design Elements
 - **Modern UI**: Clean, intuitive interface with consistent styling
 - **Responsive Layout**: Adapts to different screen sizes
 - **Color Coding**: 
-  - 🔴 Red backgrounds for core features
-  - 🟠 Orange backgrounds for PRO features
-  - 🔵 Blue for external links
+  - Red backgrounds for core features
+  - Orange backgrounds for PRO features
+  - Blue for external links
 - **Interactive Elements**: Buttons, toggles, and dynamic content
 - **Search Functionality**: Quick page discovery with keyword search
 
@@ -295,7 +295,7 @@ The application includes pre-trained models for:
 - **Direct Links**: Quick access to specific functionalities
 - **Breadcrumb Navigation**: Easy back-and-forth movement
 
-## 🛡️ Error Handling & Validation
+## Error Handling & Validation
 
 ### Input Validation
 - File format verification
@@ -309,7 +309,7 @@ The application includes pre-trained models for:
 - Progress indicators for long-running operations
 - Memory management for large datasets
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 ### Planned Features
 - [ ] Advanced NLP models integration
@@ -326,7 +326,7 @@ The application includes pre-trained models for:
 - [ ] Advanced authentication system
 - [ ] Audit logging and analytics
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions to the Omen project! Here's how you can help:
 
@@ -344,11 +344,11 @@ We welcome contributions to the Omen project! Here's how you can help:
 - Ensure compatibility with existing features
 
 ### Areas for Contribution
-- 🐛 Bug fixes and improvements
-- 📚 Documentation enhancements
-- 🎨 UI/UX improvements
-- 🧪 Additional ML models
-- 🔧 Performance optimizations
+- Bug fixes and improvements
+- Documentation enhancements
+- UI/UX improvements
+- Additional ML models
+- Performance optimizations
 
 ### Troubleshooting
 - Check `requirements.txt` for dependency conflicts
@@ -356,7 +356,7 @@ We welcome contributions to the Omen project! Here's how you can help:
 - Verify file permissions for model loading
 - Check Streamlit documentation for deployment issues
 
-## 📈 Performance Metrics
+## Performance Metrics
 
 ### Application Features
 - **Response Time**: < 2 seconds for most operations
@@ -369,7 +369,7 @@ We welcome contributions to the Omen project! Here's how you can help:
 - **Heart Disease**: 90%+ accuracy with comprehensive feature set
 - **Parkinson's Detection**: 92%+ accuracy using voice biomarkers
 
-## 🏆 Acknowledgments
+## Acknowledgments
 
 ### Technologies Used
 - **Streamlit**: For the amazing web framework
@@ -382,11 +382,11 @@ We welcome contributions to the Omen project! Here's how you can help:
 - Synthetic data for demonstration purposes
 - Anonymized data following privacy guidelines
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📊 Project Statistics
+## Project Statistics
 
 - **Total Lines of Code**: 2000+
 - **Number of Features**: 7 main pages
@@ -396,7 +396,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🌟 Quick Start Commands
+## Quick Start Commands
 
 ```bash
 # Clone and setup
